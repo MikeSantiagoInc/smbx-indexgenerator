@@ -1,0 +1,12 @@
+C:\Users\Mike\Documents\Visual Studio 2013\Projects\EpisodeManager\TestRun_Reading\bin\Debug\TestRun_Reading.exe
+C:\Users\Mike\Documents\Visual Studio 2013\Projects\EpisodeManager\TestRun_Reading\bin\Debug\TestRun_Reading.pdb
+C:\Users\Mike\Documents\Visual Studio 2013\Projects\EpisodeManager\TestRun_Reading\obj\Debug\TestRun_Reading.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Documents\Visual Studio 2013\Projects\EpisodeManager\TestRun_Reading\obj\Debug\TestRun_Reading.Form1.resources
+C:\Users\Mike\Documents\Visual Studio 2013\Projects\EpisodeManager\TestRun_Reading\obj\Debug\TestRun_Reading.Properties.Resources.resources
+C:\Users\Mike\Documents\Visual Studio 2013\Projects\EpisodeManager\TestRun_Reading\obj\Debug\TestRun_Reading.csproj.GenerateResource.Cache
+C:\Users\Mike\Documents\Visual Studio 2013\Projects\EpisodeManager\TestRun_Reading\obj\Debug\TestRun_Reading.exe
+C:\Users\Mike\Documents\Visual Studio 2013\Projects\EpisodeManager\TestRun_Reading\obj\Debug\TestRun_Reading.pdb
+C:\Users\Mike\Documents\Visual Studio 2013\Projects\EpisodeManager\TestRun_Reading\obj\Debug\TestRun_Reading.Screenshot.resources
+C:\Users\Mike\Documents\Visual Studio 2013\Projects\EpisodeManager\TestRun_Reading\obj\Debug\TestRun_Reading.ViewScreenshot.resources
+C:\Users\Mike\Documents\Visual Studio 2013\Projects\EpisodeManager\TestRun_Reading\obj\Debug\TestRun_Reading.TextEditor.resources
+C:\Users\Mike\Documents\Visual Studio 2013\Projects\EpisodeManager\TestRun_Reading\obj\Debug\TestRun_Reading.EnterVersion.resources
